@@ -13,7 +13,7 @@ While `sample_pagerank` uses a method built on probability, simulating each surf
 python pagerank.py [corpus_folder]
 ```
 
-Note: The project already has three examples of corpora (`corpus0`, `corpus1` and `corpus3`) for functional testing.
+Note: The project already has two examples of corpora (`corpus1` and `corpus3`) for functional testing.
 
 # Implementation Details
 
